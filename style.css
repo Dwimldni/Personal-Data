@@ -9,38 +9,7 @@ body {
     flex-direction: column;
 }
 
-/* Login box styling */
-.login {
-    background-color: #ffffff;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    width: 300px;
-    margin: auto; /* untuk pusatkan */
-}
 
-.login h2 {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.login input[type="username"], 
-.login input[type="password"] {
-    width: 100%;
-    padding: 10px;
-    margin: 8px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-.login button {
-    width: 100%;
-    padding: 10px;
-    background-color: #B03052;
-    color: #fff;
-    border: none;
-    margin: 8px 0;
-    border-radius: 5px;
-    cursor: pointer;
 }
 nav {
     background-color: #B03052;
